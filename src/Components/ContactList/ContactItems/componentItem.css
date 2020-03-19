@@ -1,9 +1,9 @@
-.fas, .far{
-    color: yellow;
+.fa-star{
+    color: yellowgreen;
     cursor: pointer;
     display: block;
     float: right;
-    margin-right: 2.6%;
+    margin-right: -8px;
     font-size: 30px;
 }
 .btn{
